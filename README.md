@@ -1,3 +1,4 @@
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 # Meme OCR
 
 This is an optical character recognition (OCR) tool using [Tesseract][1] specifically for internet meme images.
