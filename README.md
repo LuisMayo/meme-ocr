@@ -2,7 +2,6 @@
 
 This is an optical character recognition (OCR) tool using [Tesseract][1] specifically for internet meme images.
 
-A dedicated trained Tesseract model is included.
 
 
 ## Requirement
@@ -11,7 +10,7 @@ A dedicated trained Tesseract model is included.
 - Install Python OpenCV package by:
 
 ```
-$ sudo pip install opencv-python
+$ sudo python3 -m pip install Flask wget opencv-python-headless
 ```
 
 
